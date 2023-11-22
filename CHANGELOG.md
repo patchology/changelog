@@ -7,11 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-Aug 12, 2024 - 
+Dec 15, 2023 - Improve accessibility for the website for all website users according to WCAG guidelines.
+Jan 1st, 2024 - Update the Shopify theme to the latest version 5.4.1.
 
 ## [4.6.0] - Upgraded to checkout extensibility - Nov 17, 2023
 
-### Updated
+### Upgraded
 
 - Upgraded to checkout extensibility for a better way to customize your checkout that increases speed, conversion, and integrates with Shop Pay. Checkout.liquid will no longer be supported for the information, shipping, and payment pages.
 
