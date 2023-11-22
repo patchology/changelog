@@ -7,8 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Dec 15, 2023 - Improve accessibility for the website for all website users according to WCAG guidelines.
 - Jan 1st, 2024 - Update the Shopify theme to the latest version 5.4.1.
+- Dec 15, 2023 - Improve accessibility for the website for all website users according to WCAG guidelines.
 
 ## [4.6.0] - Upgraded to checkout extensibility - Nov 17, 2023
 
