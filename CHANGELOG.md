@@ -7,9 +7,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-Aug 12, 2024 - Upgrade now to checkout extensibility for a better way to customize your checkout that increases speed, conversion, and integrates with Shop Pay. Checkout.liquid will no longer be supported for the information, shipping, and payment pages as of August 13, 2024.
+Aug 12, 2024 - 
 
-## [4.6.0] - Upgraded to checkout extensibility for a better way to customize your checkout that increases speed, conversion, and integrates with Shop Pay. Checkout.liquid will no longer be supported for the information, shipping, Thankyou and payment pages - Nov 17, 2023
+## [4.6.0] - Upgraded to checkout extensibility - Nov 17, 2023
+
+### Updated
+
+- Upgraded to checkout extensibility for a better way to customize your checkout that increases speed, conversion, and integrates with Shop Pay. Checkout.liquid will no longer be supported for the information, shipping, and payment pages.
+
+### Added
+
+- Taboola Tracking 
+
+### Fixed
+
+- N/A
+
+### Changed
+
+- N/A
+
+### Removed
+
+- checkout.liquid
+- Mouseflow Tracking
 
 ## [4.6.0] - Removed Power Review - Apr 17, 2023
 
@@ -28,7 +49,7 @@ Aug 12, 2024 - Upgrade now to checkout extensibility for a better way to customi
 ### Removed
 
 - Removed Power Review Thankyou page script.
-- Removed Power Review tracking code scipt.
+- Removed Power Review tracking code script.
 
 ## [4.6.0] - Mouseflow - Apr 15, 2023
 
