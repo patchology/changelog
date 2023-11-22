@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - checkout.liquid
 - Mouseflow Tracking
+- YOTPO Tracking
 
 ## [4.6.0] - Removed Power Review - Apr 17, 2023
 
